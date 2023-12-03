@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-lcpfw",
+    "appUrl": "https://realm.mongodb.com/groups/6562c523f8b85676bcce8ab5/apps/65638aad588ae985192e52d6",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://us-east-1.aws.realm.mongodb.com",
+    "dataApiBaseUrl": "https://us-east-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/6562c523f8b85676bcce8ab5/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
